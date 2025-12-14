@@ -2,24 +2,24 @@
 
 I'm a **Full-Stack Developer & Computer Science undergraduate** who enjoys building clean, scalable, and user-focused applications.
 
-### 🚀 What I do
+###  What I do
 - Frontend development with **React, Next.js & Tailwind CSS**
 - Full-stack projects using **MERN stack**
 - UI-focused, performance-driven web apps
 
-### 🌱 Currently learning
+###  Currently learning
 - **Swift & iOS development**
 
-### 🛠 Tech Stack
+###  Tech Stack
 - JavaScript, TypeScript
 - React, Next.js
 - Node.js, Express
 - MongoDB, MySQL
 - Tailwind CSS
 
-### 📫 Let's connect
+###  Let's connect
 - Open to collaborations, internships, and cool ideas
 
 ---
 
-⭐ Feel free to check out my projects and drop a star if you like them!
+
