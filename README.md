@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Binuk Hewage 👋
 
-<!--
-**binukhewage/binukhewage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer & Computer Science undergraduate** who enjoys building clean, scalable, and user-focused applications.
 
-Here are some ideas to get you started:
+### 🚀 What I do
+- Frontend development with **React, Next.js & Tailwind CSS**
+- Full-stack projects using **MERN stack**
+- UI-focused, performance-driven web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- **Swift & iOS development**
+
+### 🛠 Tech Stack
+- JavaScript, TypeScript
+- React, Next.js
+- Node.js, Express
+- MongoDB, MySQL
+- Tailwind CSS
+
+### 📫 Let's connect
+- Open to collaborations, internships, and cool ideas
+
+---
+
+⭐ Feel free to check out my projects and drop a star if you like them!
