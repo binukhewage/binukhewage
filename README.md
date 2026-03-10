@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer & Computer Science undergraduate** who enjoys build
 - UI-focused, performance-driven web apps
 
 ###  Currently learning
-- **Swift & iOS development**
+- **Swift & iOS development / ReactNative Mobile Development**
 
 ###  Tech Stack
 - JavaScript, TypeScript
