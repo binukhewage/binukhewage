@@ -17,9 +17,6 @@ I'm a **Full-Stack Developer & Computer Science undergraduate** who enjoys build
 - MongoDB, MySQL
 - Tailwind CSS
 
-###  Let's connect
-- Open to collaborations, internships, and cool ideas
-
 ---
 
 
